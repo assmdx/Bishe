@@ -1,0 +1,17 @@
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\debug\anycpu\win8.1\resources.pri
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\debug\anycpu\win8.1\AppxManifest.xml
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\debug\anycpu\win8.1\CordovaApp.Windows.build.appxrecipe
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\priconfig.xml
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\layout.resfiles
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\resources.resfiles
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\pri.resfiles
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\qualifiers.txt
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\package.map.txt
+E:\nodejsapp\Bishe\Bishe\platforms\windows\build\windows\bld\_pkginfo.txt
