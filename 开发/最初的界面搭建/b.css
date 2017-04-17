@@ -1,0 +1,24 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#d1{
+	width: 300px;
+	height: 200px;
+	border: solid 1px red;
+}
+#d2{
+	width: 100px;
+	height: 100px;
+	border: solid 1px blue;
+}
+#d3{
+	width: 30px;
+	height: 20px;
+	border: solid 1px green;
+	position: fixed; /* 固定定位: 脱离了文档流，不会单独沾满一行，top，left，right，bottom始终相对于的是body;
+	 */
+	 top: 100px;
+	left: 100px;
+	float: right;
+}

@@ -1,0 +1,65 @@
+a:link{color:#000;}/* 正常样式 */
+a:visited{color:#fff;}/* 鼠标点了之后 */
+a:hover{color:red;}/* 鼠标放上去之后 */
+a:active{color:yellow;}/* 鼠标点的那一刻 */
+/* 必须按照这四个先后顺序才可以 */
+table{
+	width : 500px;
+	height: 300px;
+	border-collapse: collapse;	/* 表格线合并 */
+}
+th,tr{
+	border: solid 1px red;
+	text-align: center;/* 字体居中 */
+}
+#rzc{
+	width: 200px;
+	height: 40px;
+	border: 5px #f00;
+	border-style: solid;
+	overflow: hidden;/* 超出部分自动隐藏 auto：超出div出现一个滚动条 scroll:不管超不超出都有滚动条*/
+} /* css是由上至下执行，下面的会覆盖上面的 */
+.c{
+	width: 200px;
+	height: 300px;
+	border: solid 2px red;
+}
+.c1{
+	display: none;/* 隐藏当前元素，不占位置 */
+	/* visibility: hidden;/* 隐藏，但是会占位置 */ 
+	top: 50px;
+	background-color: #000;
+	z-index: 6;
+	position: absolute;
+}
+.c2{
+	
+	/* visibility: hidden;/* 隐藏，但是会占位置 */ 
+	top: 60px;
+	background-color: #ff0;
+	z-index: 2;
+	position: absolute
+}
+.c3{
+	/* visibility: hidden;/* 隐藏，但是会占位置 */ 
+	top: 150px;
+	background-color: #f00;
+	z-index: 3;
+	position: absolute;
+}
+	/* class可以指定多个值,用空格隔开就可以了.多个样式定义最终会叠加在一起应用到当前元素. */
+.forcursor{
+	cursor: help;/* 鼠标的属性 */
+}
+li{/* 
+	list-style-type: none;
+	list-style-image: ;设置列表前面的那个东西的属性 */
+}
+/* vertical-align：text-center;只能设置行内元素 */
+.aa{
+	display: inline;/* 将快级元素变成行内元素 */
+}
+span{
+	display: block;/* 将行内元素变成块级元素 */
+	display: inline-block;/* 同时有行元素和块元素的特点 */
+}
