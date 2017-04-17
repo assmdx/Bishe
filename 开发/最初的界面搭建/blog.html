@@ -6,30 +6,40 @@
   <meta name="description" content="">
   <meta name="keywords" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hello Amaze UI</title>
-
+  <title></title>
   <link rel="stylesheet" href="assets/css/amazeui.min.css">
   <link rel="stylesheet" href="assets/css/app.css">
+  <link rel="stylesheet" href="assets/css/rzc.css">
 </head>
 <body>
 <!--在这里编写你的代码-->
-<div data-am-sticky>
-    <button class="am-btn am-btn-primary" data-am-offcanvas="{target: '#doc-oc-demo2', effect: 'push'}"></button>
-    <!-- 侧边栏内容 -->
-    <div id="doc-oc-demo2" class="am-offcanvas">
-      <div class="am-offcanvas-bar">
-        <div class="am-offcanvas-content">
-          <p>
-            我不愿让你一个人 <br/>
-            承受这世界的残忍 <br/>
-            我不愿眼泪陪你到 永恒
-          </p>
-        </div>
+  <div class="am-btn am-btn-primary am-btn-block" data-am-sticky="{animation: 'slide-top'}">
+        <!-- <button class="am-btn am-btn-success am-btn-block">固定到顶部动画效果</button> -->
+        <a class="rzc_button1" href="#doc-oc-demo1" data-am-offcanvas>
+            &nbsp;&nbsp;
+            <i class="am-icon-cog"></i> 设置
+        </a>
+        <a style="color:white">文件</a>
+        <a style="float: right;color:white">
+          <span class="am-icon-plus"></span>
+          &nbsp;&nbsp;
+          <span class="am-icon-search"></span>
+          &nbsp;&nbsp;
+        </a>        
+  </div>
+  
+  <!-- 侧边栏内容 -->
+  <div id="doc-oc-demo1" class="am-offcanvas">
+    <div class="am-offcanvas-bar">
+      <div class="am-offcanvas-content">
+        <p>
+          我不愿让你一个人 <br/>
+          承受这世界的残忍 <br/>
+          我不愿眼泪陪你到 永恒
+        </p>
       </div>
     </div>
-    <button class="am-btn am-btn-primary am-btn-block">文件</button>
-</div>
-
+  </div>
 <!--[if (gte IE 9)|!(IE)]><!-->
 <script src="assets/js/jquery.min.js"></script>
 <!--<![endif]-->
