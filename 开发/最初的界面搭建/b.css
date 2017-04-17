@@ -2,23 +2,34 @@
 	margin: 0px;
 	padding: 0px;
 }
-#d1{
-	width: 300px;
+.a1{
+	width: 30%;
+	height: 400px;
+	border: solid 1px green;
+	float: left;
+	overflow: hidden;
+}
+.a2{
+	width: 30%;
 	height: 200px;
+	float: left;
 	border: solid 1px red;
 }
-#d2{
-	width: 100px;
-	height: 100px;
-	border: solid 1px blue;
+.a3{
+	width: 49%;
+	height: 200px;
+	float: left;
+	border: solid 1px black;
 }
-#d3{
-	width: 30px;
-	height: 20px;
-	border: solid 1px green;
-	position: fixed; /* 固定定位: 脱离了文档流，不会单独沾满一行，top，left，right，bottom始终相对于的是body;
-	 */
-	 top: 100px;
-	left: 100px;
-	float: right;
+.a4{
+	width: 49%;
+	height: 400px;
+	float: left;
+	border: solid 1px black;
+}
+.a5{
+	width: 100%;
+	height: 200px;
+	float: left;
+	border: solid 1px red;
 }
