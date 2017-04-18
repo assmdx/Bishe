@@ -1,6 +1,27 @@
  /* css write by Ren Zhenchuan */
+ /* mainpage */
 .rzc_button1{
 	float:left;
 	text-align: left; 
 	color:white;
 }
+.rzc_slider_ul>li{
+	letter-spacing: 4px;
+	background-color:#333;
+}
+.rzc_slider_ul>li>a{
+	text-align:-webkit-center;
+	color: #fff;
+}
+.rzc_slider_div{
+	/* vertical-align: middle; */
+	text-align: center;
+}
+.rzc_slider_div>img{
+	border-radius: 50%;
+	/* background-image:url('../img/login.jpg'); */
+	width: 40%;
+	height: 60%;
+	margin-top: 10%;
+}
+/* 注册界面 */
