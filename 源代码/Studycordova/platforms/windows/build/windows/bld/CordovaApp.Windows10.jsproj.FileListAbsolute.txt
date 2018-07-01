@@ -1,0 +1,17 @@
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\debug\anycpu\win10\resources.pri
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\debug\anycpu\win10\AppxManifest.xml
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\debug\anycpu\win10\CordovaApp.Windows10.build.appxrecipe
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\priconfig.xml
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\layout.resfiles
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\resources.resfiles
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\pri.resfiles
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\qualifiers.txt
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\package.map.txt
+E:\nodejsapp\StudyCordova\Studycordova\platforms\windows\build\windows\bld\_pkginfo.txt

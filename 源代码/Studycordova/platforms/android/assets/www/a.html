@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" charset="utf-8" src="cordova.js"></script>
+    <script type="text/javascript" charset="utf-8" src="js/a.js"></script>    
+    <script type="text/javascript" charset="utf-8" src="js/FileDealer.js"></script> 
+    <script type="text/javascript" charset="utf-8" src="js/sync.js"></script> 
+    <script type="text/javascript" charset="utf-8" src="js/jszip.js"></script> 
+</head>
+<body onload="onLoad()">
+	<div style="width: 100%">
+		<!-- <img src="img\like.jpg" style="max-width:100%" alt=""> -->
+		<a id ="a1" href="" title="">11111111111</a>	
+
+		<input id ="NewDirName" type="text" name="">
+		<input id ="NewFileName"  type="text" name="">						
+		<button  onclick="createFile(1)">新建文件</button>	
+		<div id = "newBuildFile">
+			<p>新建的文件:</p>	<br>
+		</div>
+		<button  onclick="createFile(2)">新建文件目录</button>	
+		<div id = "newBuildFileDirectory">
+			<p>新建的文件目录:</p>	<br>
+		</div>
+		<button  onclick="createFile(3)">查看文件最近修改时间</button>	
+		<div id = "newBuildFF">
+			<p>最新修改时间:</p>	<br>
+		</div>
+		<!-- ------------------------------ -->
+		<div id="showFileOfDatadirectory"></div>
+		<button  onclick="getFilelist(cordova.file.dataDirectory)">查看所有文件</button>	
+		<!-- ---------------------------------- -->
+		<div id ="showceshi">
+			<p>测试结果:</p><br>
+		</div>
+		<!-- <button  onclick="debugIt()">测试上传文件</button>	-->
+ 		<button  onclick="debugIt()">测试文件最新修改时间</button>
+		<div id ="OutPutForWindows">
+		</div>
+	</div>			
+</body>
+</html>
